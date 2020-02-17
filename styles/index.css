@@ -1,0 +1,31 @@
+.picture  {
+    width: 400px;
+    height: 300px;
+    
+}
+
+.sectiontwo {
+    align-content: center;
+}
+
+h1 {
+    color: hotpink;
+    text-align: center;
+    background-color: lightpink;
+}
+
+.table ,th,td,th {
+    color: indigo;
+    text-align: center;
+    outline-style: solid;
+    outline-color: lightpink;
+    
+}
+
+
+
+.formstyle {
+    text-align: center;
+    outline-style: dotted;
+}
+
